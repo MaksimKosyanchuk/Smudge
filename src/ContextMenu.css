@@ -1,0 +1,76 @@
+/* Пкм менюшки */
+#app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) {
+    background-color: var(--main-bck-color) !important;
+    background: var(--bg-primary);
+    border: 1px solid var(--border);
+    box-shadow: none;
+    border-radius: 6px;
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) [role=group]:first-child > .item-5ApiZt:first-child {
+    border-radius: 6px;
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) [role=group]:nth-last-child(2) > .item-5ApiZt:last-child {
+    border-radius: 6px;
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) .item-5ApiZt {
+    margin: 0;
+    border-radius: 0;
+    padding: 10px 10px;
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) .item-5ApiZt.focused-3LIdPu {
+    background: var(--background-modifier-hover);
+    border-radius: 6px;
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) .item-5ApiZt.colorDanger-3umuSx.focused-3LIdPu {
+    background: hsl(var(--discord-red));
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) .submenuPaddingContainer-QgnL1r {
+    margin: 0 -4px;
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN) .hideInteraction-2jPGL_ .hideInteraction-2jPGL_ {
+    padding: 0 0 8px;
+  }
+  #app-mount .accountProfilePopoutWrapper-3GskID .menu-2TXYjN {
+    max-width: unset;
+  }
+  /*Пкм всплывающие менюшки*/
+  .scroller-nxCRu_
+  {
+    border-radius: 6px;
+  }
+  .theme-dark.layer-2BGhQ8
+  {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .submenuPaddingContainer-QgnL1r {
+    margin: 0 0;
+    backdrop-filter: var(--blur);
+    padding: 0;
+    border-radius: 6px;
+  }
+  .animatorBottom-1jjd1i.scale-24Zc5q.didRender-2dwLEv
+  {
+    backdrop-filter: var(--blur);
+  }
+  #app-mount .menu-2TXYjN:not(#account.menu-2TXYjN)::before {
+    content: "";
+    border-radius: 6px;
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    bottom: 1px;
+    left: 1px;
+    -webkit-backdrop-filter: var(--blur);
+            backdrop-filter: var(--blur);
+    z-index: -1;
+  }
+  /*Покинуть сервер всплывающее меню*/
+  .root-1CAIjD.small-2xUY-3.fullscreenOnMobile-2971EC.rootWithShadow-2hdL2J
+  {
+    backdrop-filter: var(--blur);
+  }
+  .flex-2S1XBF.flex-3BkGQD.horizontalReverse-60Katr.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz.footer-IubaaS.footerSeparator-3U8YsT
+  {
+    background-color: transparent;
+  }

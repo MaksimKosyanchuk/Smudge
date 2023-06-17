@@ -1,0 +1,51 @@
+/*Поисковик по группам*/
+.input-3r5zZY {
+    margin-bottom: 30px;
+    border: 2px solid #383a40;
+    border-radius: 6px;
+    transition: 0.3s ease-in-out, 0.1s ease-in-out;
+  }
+  .input-3r5zZY
+  {
+    border-radius: 6px;
+    border: 2px solid rgb(var(--accent));
+    box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  }
+  .input-3r5zZY
+  {
+    border-radius: 6px;
+    border: 2px solid rgb(var(--accent));
+    box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  }
+  /*поисковик в чате*/
+  .search-2Mwzzq:focus-within
+  {
+    border-radius: 4px;
+    border: 2px solid rgb(var(--accent));
+    box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  }
+  .search-2Mwzzq:focus-within
+  {
+    border-radius: 4px;
+    border: 2px solid rgb(var(--accent));
+    box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  }
+  /*поисковик в списке друзей*/
+  .searchBar-2aylmZ.container-2oNtJn.medium-2NClDM {
+    margin-bottom: 30px;
+    border: 2px solid #383a40;
+    border-radius: 6px;
+    transition: 0.3s ease-in-out, 0.1s ease-in-out;
+  }
+  .searchBar-2aylmZ.container-2oNtJn.medium-2NClDM:focus-within
+  {
+    border-radius: 6px;
+    border: 2px solid rgb(var(--accent));
+    box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  }
+  .searchBar-2aylmZ.container-2oNtJn.medium-2NClDM:focus-within
+  {
+    border-radius: 6px;
+    border: 2px solid rgb(var(--accent));
+    box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  }
