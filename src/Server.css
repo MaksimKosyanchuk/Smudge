@@ -483,3 +483,31 @@
 {
   background: transparent;
 }
+/*Почта*/
+.container-2ebMPP.recentMentionsPopout-2bI1ZN.group-spacing-16
+{
+  background: var(--main-bck-color);
+  backdrop-filter: var(--blur);
+}
+.messages-23can0
+{
+  background: transparent;
+}
+.container-_dQaft.recentMentionsPopout-2bI1ZN
+{
+  background: var(--main-bck-color);
+  backdrop-filter: var(--blur);
+}
+.container-1A0qQO.thin-RnSY0a.scrollerBase-1Pkza4
+{
+  background: transparent;
+}
+.tutorial-Nb3Zz5
+{
+  background: var(--main-bck-color);
+}
+/*уведомления*/
+.scroller-nxCRu_.thin-RnSY0a.scrollerBase-1Pkza4
+{
+  background: var(--main-bck-color);
+}
