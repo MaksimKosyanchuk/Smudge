@@ -511,3 +511,36 @@
 {
   background: var(--main-bck-color);
 }
+/**/
+.messageContainer-3VTXBC
+{
+  background: var(--main-bck-color);
+  margin-top: 15px;
+}
+.closeButton-3CiW2j.button-1_oXub.tertiary-1e-lAP.size32-1NLMUP
+{
+  margin: 15px;
+}
+/*хедер*/
+.channelHeader-DFRX8q
+{
+  border-radius: 6px;
+  margin-left: 15px;
+}
+.channel-3NJZ1V .channelHeader-DFRX8q
+{
+  margin-left: 0px;
+}
+.markReadButton-28SmPf.button-1_oXub.tertiary-1e-lAP.size32-1NLMUP
+{
+  margin-right: 15px;
+}
+.collapseButton-39-IRc
+{
+  margin-left: 15px;
+}
+.icon-1zKOXL.guildIcon-IklRcj.iconSizeMedium-2vzSua.iconActiveMedium-27_R5B
+{
+  margin-left: 25px;
+}
+
